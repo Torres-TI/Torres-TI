@@ -36,11 +36,25 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para brunotorressdeveloper@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1shSZAq1cpi1i8OtatLC43ydbdeuHSdLp/view?usp=sharingdk" target="_blank">Currículo</a> para mais informações.
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres" />
-</p>
-<p>&nbsp;
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
+ </p>
+ <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunin-TI&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Bruno-Torres" />
-</p>
+</p> <br/>
 
+
+**Linguagens e ferramentas:**  
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> 
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brunin-TI" alt="Bruno-Torres" /> </p>
+
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
