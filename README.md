@@ -21,3 +21,26 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
   Além disso,  curso Análise e Desenvolvimento de Sistemas no <b> Instituto Vianna Júnior. </b>
 </p>
 
+**Meus interesses pessoais:**
+
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626323782908.png" width="400px" />
+
+- 👩‍💻 Estou estudando Mobile com **JavaScript**, **TypeScript** e utilizando o framework **React-Native**;
+- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 👾 Meus hobbies são: 
+  - Estudar sobre Desenvolvimento Web, Back-End e Autoconhecimento; 
+  - Ler livros;
+  - Jogar Vídeo Games;
+  - Assistir séries;
+  - Praticar Esportes; 
+- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+- 📫 Se quiser pode enviar um email para brunotorressdeveloper@gmail.com.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1shSZAq1cpi1i8OtatLC43ydbdeuHSdLp/view?usp=sharingdk" target="_blank">Currículo</a> para mais informações.
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunin-TI&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Bruno-Torres" />
+</p>
+
