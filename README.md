@@ -38,7 +38,7 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
 - 📝 Veja meu <a href="https://drive.google.com/drive/u/1/folders/1MwqDUHkromavOlvyS4EVjdJVVFsyWawV" target="_blank">Currículo</a> para mais informações.
 <p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
  </p>
  <p>
  <br/>
