@@ -41,8 +41,7 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
  </p>
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunin-TI&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Bruno-Torres" />
-</p> <br/>
+ <br/>
 
 
 **Linguagens e ferramentas:**  
