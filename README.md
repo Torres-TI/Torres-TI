@@ -34,7 +34,7 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
   - Assistir séries;
   - Praticar Esportes; 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para brunotorressdeveloper@gmail.com.
+- 📫 Se quiser pode enviar um email para bruno.araujo@viannasempre.com.br
 - 📝 Veja meu <a href="https://drive.google.com/drive/u/1/folders/1MwqDUHkromavOlvyS4EVjdJVVFsyWawV" target="_blank">Currículo</a> para mais informações.
 <p>
 <p>
