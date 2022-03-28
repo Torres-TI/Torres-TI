@@ -17,7 +17,7 @@ Me chamo <b>Bruno Torres</b>.
 </a>
 <p align="left" >
 Atualmente moro em Juiz de Fora/MG-BR.<br />
-Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para me tornar um <b>Desenvolvedor Mobile </b>. <br/>
+Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para me tornar um <b>Desenvolvedor React </b>. <br/>
   Além disso,  curso Análise e Desenvolvimento de Sistemas no <b> Instituto Vianna Júnior. </b>
 </p>
 
@@ -25,10 +25,10 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626323782908.png" width="400px" />
 
-- 👩‍💻 Estou estudando Mobile com **JavaScript**, **TypeScript** e utilizando o framework **React-Native**;
+- 👩‍💻 Estou estudando Web e Mobile com **JavaScript**, **TypeScript** e utilizando tecnologias como, **React**,**React-Native**,**Tailwindcss**,**React-Query**...;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre Desenvolvimento Web, Back-End e Autoconhecimento; 
+  - Estudar sobre React, Cibersegurança, Back-End e Autoconhecimento; 
   - Ler livros;
   - Jogar Vídeo Games;
   - Assistir séries;
