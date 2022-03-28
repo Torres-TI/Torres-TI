@@ -25,7 +25,7 @@ Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626323782908.png" width="400px" />
 
-- 👩‍💻 Estou estudando Web e Mobile com **JavaScript**, **TypeScript** e utilizando tecnologias como, **React**,**React-Native**,**Tailwindcss**,**React-Query**...;
+- 👩‍💻 Estou estudando Web e Mobile com **JavaScript**, **TypeScript** e utilizando tecnologias como, **React**, **React-Native**, **Tailwindcss**, **React-Query**...;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre React, Cibersegurança, Back-End e Autoconhecimento; 
