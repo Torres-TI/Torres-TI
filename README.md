@@ -14,7 +14,7 @@ Me chamo <b>Bruno Torres</b>.
 </p>
 <p align="left" >
 Atualmente moro em Juiz de Fora/MG-BR.<br />
-Já realizei alguns cursos de desenvolvimento e estou trilhando meu caminho para me tornar um <b>Desenvolvedor React </b>. <br/>
+Sou um explorador de tecnologias em busca de aperfeiçoar as minhas habilidades e alavancar minha carreira como <b>Desenvolvedor React </b>. <br/>
   Além disso,  curso Análise e Desenvolvimento de Sistemas no <b> Instituto Vianna Júnior e trabalho como Desenvolvedor Front-End. </b>
 </p>
 
