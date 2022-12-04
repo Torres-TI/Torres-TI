@@ -1,38 +1,36 @@
-<h1 align="center"> Sejam bem vindos! </h1>
+<h1 align="center"> Welcome! </h1>
 <hr />
 <a href="https://github.com/Brunin-TI" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 
 <p align="left" > 
-  <b>Fala Devs!</b>
+  <b>Hello Devs!</b>
 </p>
 <a href="https://www.linkedin.com/in/bruno-torres-araujo-success/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-Me chamo <b>Bruno Torres</b>.
+My name is <b>Bruno Torres</b>.
 </p>
 <p align="left" >
-Atualmente moro em Juiz de Fora/MG-BR.<br />
-Sou um explorador de tecnologias em busca de aperfeiçoar as minhas habilidades e alavancar minha carreira como <b>Desenvolvedor React </b>. <br/>
-  Além disso,  curso Análise e Desenvolvimento de Sistemas no <b> Instituto Vianna Júnior e trabalho como Desenvolvedor Front-End. </b>
+Currently I live in East Bay - California<br />
+I am a technology explorer looking for improve and sharp my developer skillset and leverage my career as a React Developer. In addition, I have complete multiple courses focused on System analysis and software development in one of the most important software development education center located in LATAM-Brazil. <br/>
 </p>
 
-**Meus interesses pessoais:**
+**My personal interests:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626323782908.png" width="400px" />
 
-- 👩‍💻 Estou estudando Web e Mobile e as seguintes tecnologias, **JavaScript**, **TypeScript**, **React**, **React-Native**, **Tailwindcss**, **React-Query**...
-- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar sobre React, Cibersegurança, Back-End e Autoconhecimento; 
-  - Ler livros;
-  - Jogar Vídeo Games;
-  - Assistir séries;
-  - Praticar Esportes; 
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para bruno.araujo@viannasempre.com.br
-- 📝 Veja meu <a href="https://drive.google.com/drive/folders/1NiglynuIWv3QAh8wFWGdUBw1Bl20TI86?usp=sharing" target="_blank">Currículo</a> para mais informações.
+👩 💻 Last past years I have been focusing on Web and Mobile development frameworks: JavaScript, TypeScript, React, React-Native, Tailwindcss, React-Query
+
+💼 I am a tech buff, for this reason I am always been studying and evolving in my career;
+
+👾 My hobbies are: Studying about React, Cybersecurity, Back-End and Self-Knowledge; Read books; Play Video Games; Watch series; Practice Sports - Soccer;
+
+
+💬 Feel free to call me, I will be very happy to be able to help; 
+
+📝 See my detailed resume <a href="https://drive.google.com/drive/folders/1NiglynuIWv3QAh8wFWGdUBw1Bl20TI86?usp=sharing" target="_blank">here</a>
 <p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
@@ -41,7 +39,7 @@ Sou um explorador de tecnologias em busca de aperfeiçoar as minhas habilidades 
  <br/>
 
 
-**Linguagens e ferramentas:**  
+**Experience:**  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" />
@@ -53,4 +51,3 @@ Sou um explorador de tecnologias em busca de aperfeiçoar as minhas habilidades 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brunin-TI" alt="Bruno-Torres" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
