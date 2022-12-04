@@ -25,7 +25,7 @@ I am a technology explorer looking for improve and sharp my developer skillset a
 
 💼 I am a tech buff, for this reason I am always been studying and evolving in my career;
 
-👾 My hobbies are: Studying about React, Cybersecurity, Back-End and Self-Knowledge; Read books; Play Video Games; Watch series; Practice Sports - Soccer;
+👾 My hobbies are: Studying about React, Cybersecurity, Back-End and Self-Knowledge; Read books; Play Video Games; Watch series; Practice Sports;
 
 
 💬 Feel free to call me, I will be very happy to be able to help; 
