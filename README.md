@@ -13,7 +13,7 @@
 My name is <b>Bruno Torres</b>.
 </p>
 <p align="left" >
-Currently I live in East Bay - California<br />
+Currently I live in Juiz de Fora - MG<br />
 I am a technology explorer looking for improve and sharp my developer skillset and leverage my career as a React Developer. In addition, I have complete multiple courses focused on System analysis and software development in one of the most important software development education center located in LATAM-Brazil. <br/>
 </p>
 
