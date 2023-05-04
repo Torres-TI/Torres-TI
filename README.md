@@ -30,7 +30,6 @@ I am a technology explorer looking for improve and sharp my developer skillset a
 
 💬 Feel free to call me, I will be very happy to be able to help; 
 
-📝 See my detailed resume <a href="https://drive.google.com/drive/folders/1NiglynuIWv3QAh8wFWGdUBw1Bl20TI86?usp=sharing" target="_blank">here</a>
 <p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-TI&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-Torres"/>
