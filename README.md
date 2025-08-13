@@ -34,6 +34,8 @@ I have completed multiple courses focused on <b>information security, system ana
 
 💬 Feel free to connect — collaboration makes our community stronger!  
 
+Resume: <a href="https://drive.google.com/file/d/13FG9P-HuIIu_4uqOQyEYwjV0aM8IYyfF/view?usp=drive_link"> Click Here </a> 
+
 ---
 
 **Cybersecurity Skill Radar:**
