@@ -36,7 +36,8 @@ I have completed multiple courses focused on <b>information security, system ana
 
 ---
 
-**📊 Cybersecurity Skill Radar**  
+**Cybersecurity Skill Radar: **
+
 ![Skill Radar](https://github-readme-stats.vercel.app/api?username=Brunin-TI&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
