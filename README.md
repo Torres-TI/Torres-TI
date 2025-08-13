@@ -7,7 +7,7 @@
 <p align="left"> 
   <b>Hello Security Enthusiasts!</b>
 </p>
-<a href="https://www.linkedin.com/in/bruno-torres-araujo-success/" target="_blank">
+<a href="https://www.linkedin.com/in/torres-ti/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
