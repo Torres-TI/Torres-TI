@@ -23,7 +23,8 @@ I have completed multiple courses focused on <b>information security, system ana
 
 **My professional focus and interests:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626323782908.png" width="400px" />
+<img  align="right" width="400" height="400" alt="octocat-1755108550113" src="https://github.com/user-attachments/assets/ff10f8cd-76e0-4f75-8532-bcb22a87ab2f" />
+
 
 🔐 Offensive and defensive security using tools like **Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, and Splunk**  
 💻 Secure coding practices in **Python, Bash, and PowerShell**  
