@@ -45,5 +45,4 @@ I also keep a parallel track in offensive security (Python/Bash tooling, recon p
 💬 Always open to connecting with people in quant finance, algo trading, or prop trading — feel free to reach out.
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Brunin-TI&show_icons=true&theme=tokyonight&count_private=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Torres-TI&show_icons=true&theme=tokyonight&count_private=true)
