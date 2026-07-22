@@ -1,54 +1,49 @@
-<h1 align="center"> Welcome to my Cybrunt00 Space</h1>
+<h1 align="center">Hi, I'm Bruno Torres</h1>
 <hr />
-<a href="https://github.com/Brunin-TI" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
 
-<p align="left"> 
-  <b>Hello Security Enthusiasts!</b>
-</p>
-<a href="https://www.linkedin.com/in/torres-ti/" target="_blank">
+<a href="https://www.linkedin.com/in/bruno-torres-araujo/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-My name is <b>Bruno Torres</b>.
-</p>
 <p align="left">
-Currently I live in San Francisco, CA.<br />
-I am a cybersecurity enthusiast exploring the latest trends, tools, and methodologies in information security. My goal is to strengthen my skills in <b>threat detection, vulnerability management, penetration testing, and incident response</b>, while building a solid career in the field of cybersecurity.<br/>
-I have completed multiple courses focused on <b>information security, system analysis, and secure software development</b> at one of the most important technology and security education centers in LATAM – Brazil.
+Live futures trader turned systematic-trading builder, working toward a career in <b>quantitative finance</b>.<br /><br />
+I trade live futures markets at a prop firm, and I'm building the technical and statistical foundation to move into quant research and systematic trading. My approach: combine real trading intuition with production-grade code — every strategy I study gets implemented, backtested, and stress-tested in Python, not just read about.
 </p>
 
 ---
 
-**My professional focus and interests:**
+**What I'm focused on**
 
-<img  align="right" width="400" height="400" alt="octocat-1755108550113" src="https://github.com/user-attachments/assets/ff10f8cd-76e0-4f75-8532-bcb22a87ab2f" />
-
-
-🔐 Offensive and defensive security using tools like **Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, and Splunk**  
-💻 Secure coding practices in **Python, Bash, and PowerShell**  
-📡 Continuous learning about **ethical hacking, digital forensics, and risk management**  
-🎯 Always studying and evolving to stay ahead of emerging cyber threats  
-🕹 Hobbies: Reading about cybersecurity, coding, CTF challenges, strategic video games, and sports  
-
-💬 Feel free to connect — collaboration makes our community stronger!  
-
-Resume: <a href="https://drive.google.com/file/d/13FG9P-HuIIu_4uqOQyEYwjV0aM8IYyfF/view?usp=drive_link"> Click Here </a> 
+- 📈 Systematic and quantitative trading — strategy research, backtesting, and signal design
+- 📊 Probability, statistics, and time series — building the formal foundation behind the trading experience
+- 🐍 Python for finance: `pandas`, `numpy`, `yfinance`, `vectorbt`, `Optuna`
+- ⚙️ Shipping real tools, not just notebooks — scanners, bots, and pipelines that run
+- 🎯 Long-term goal: transition from live trading into a quant research seat
 
 ---
 
-**Cybersecurity Skill Radar:**
+**Featured projects**
 
-![Skill Radar](https://github-readme-stats.vercel.app/api?username=Brunin-TI&show_icons=true&theme=tokyonight&count_private=true)
+📊 [**Quantitative Analysis & Algo Trading**](https://github.com/Torres-TI/quantitative-analysis-and-algo-trading) — a growing notebook library covering technical indicators (ADX, ATR, Bollinger Bands, MACD, RSI, Renko charts), performance metrics (CAGR, Sharpe/Sortino, Max Drawdown/Calmar Ratio), and backtested strategies, built with `pandas`, `yfinance`, and `TA-Lib`.
+
+🔎 [**Value-Investing**](https://github.com/Torres-TI/Value-Investing) — Python screeners implementing classic value frameworks (Greenblatt's Magic Formula, Piotroski F-Score) on live market data via `yfinance`. Study material turned into repeatable, ranked, systematic output.
+
+📓 [**DojiLog**](https://dojilog.com) — an AI-powered trading journal: broker/platform sync, automated performance statistics, and AI-driven coaching to help traders find patterns in their own data.
+
+👨‍👩‍👧 **Family portfolio management** — I help my dad and sister manage their portfolios and develop trade ideas across stocks and options, applying the same research and risk discipline I use in my own trading.
 
 ---
 
-**💻 Simulated Terminal – Network Scan**
-```ascii
-> Initializing Security Environment...
-> Loading Modules: [✔] Nmap  [✔] Metasploit  [✔] Wireshark
-> Scanning Target: 192.168.1.0/24 ...
-[####################################] 100%
-> Found Hosts: 12 | Open Ports: 34 | Potential Vulns: 3
-> Analysis Completed — Report Saved
+**Currently learning**
+
+Working through a structured probability and statistics track (Harvard Stat 110-style foundations) to close the gap between trader intuition and the formal quant toolkit — regression, time series, and eventually stochastic processes.
+
+---
+
+I also keep a parallel track in offensive security (Python/Bash tooling, recon pipelines, bug bounty work) as a self-directed learning interest — happy to talk about either.
+
+💬 Always open to connecting with people in quant finance, algo trading, or prop trading — feel free to reach out.
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Brunin-TI&show_icons=true&theme=tokyonight&count_private=true)
